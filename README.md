@@ -2,16 +2,6 @@
 
 This project implements a hotel recommendation system using collaborative filtering. The system suggests hotels based on user similarities and their booking patterns.
 
-## Project Structure
-```
-Hotel Recommendation/
-├── src/
-│   ├── recommender.py    # Core recommendation engine
-│   └── app.py           # Streamlit web application
-├── requirements.txt     # Project dependencies
-└── README.md           # Project documentation
-```
-
 ## How it Works
 The recommendation system uses collaborative filtering to suggest hotels:
 1. Creates a user-hotel matrix based on booking history
@@ -38,3 +28,5 @@ The recommendation system uses collaborative filtering to suggest hotels:
 ## Data Requirements
 - users.xlsx: Contains user information
 - hotels.xlsx: Contains hotel booking information
+
+[Visit Streamlit](https://hotelrecommendation-ltff985abrt4wsuoqog4l2.streamlit.app/)
