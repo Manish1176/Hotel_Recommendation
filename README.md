@@ -1,4 +1,6 @@
-# Hotel Recommendation System
+# Hotel Recommendation System 
+
+[Visit Streamlit](https://hotelrecommendation-ltff985abrt4wsuoqog4l2.streamlit.app/)
 
 This project implements a hotel recommendation system using collaborative filtering. The system suggests hotels based on user similarities and their booking patterns.
 
@@ -17,7 +19,6 @@ The recommendation system uses collaborative filtering to suggest hotels:
 
 2. Run the Streamlit app:
    ```
-   cd src
    streamlit run app.py
    ```
 
